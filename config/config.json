@@ -6,7 +6,8 @@
     "homepage": "postgres://default:52ZzidANqYHL@ep-polished-fire-58981482-pooler.us-east-1.postgres.vercel-storage.com:5432/verceldb",
     "host": "dpg-cj89krtjeehc73ai1bo0-a.oregon-postgres.render.com",
     "dialect": "postgres",
-    "port": 5432
+    "port": 5432,
+    "SSL": true
   },
   "test": {
     "username": "postgres",
