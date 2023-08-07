@@ -1,11 +1,12 @@
 {
   "development": {
-    "username": "postgres",
-    "password": "admin",
-    "database": "recipient",
+    "username": "wedding",
+    "password": "GZhJCSYFRfvsM7A0hExEsDIrFXll1LCy",
+    "database": "participant",
     "homepage": "postgres://default:52ZzidANqYHL@ep-polished-fire-58981482-pooler.us-east-1.postgres.vercel-storage.com:5432/verceldb",
-    "host": "127.0.0.1",
-    "dialect": "postgres"
+    "host": "dpg-cj89krtjeehc73ai1bo0-a.oregon-postgres.render.com",
+    "dialect": "postgres",
+    "port": 5432
   },
   "test": {
     "username": "postgres",
