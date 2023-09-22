@@ -10,6 +10,6 @@ const recipientRoutes = require('./recipient');
 const userRoutes = require ('./user');
 
 route.use('/recipients', recipientRoutes)
-route.use('/user', userRoutes)
+route.use('/users', userRoutes)
 
 module.exports = route;
