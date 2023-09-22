@@ -1,4 +1,5 @@
 const recipient = require('../models').recipient
+const db = require("../db/index");
 
 class RecipientController{
     static get(req, res){
